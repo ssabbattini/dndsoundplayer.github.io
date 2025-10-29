@@ -8,7 +8,7 @@
     {
       "id": "cattedrale",
       "name": "Cattedrale",
-      "path": "music/46_Cathedral.mp3"
+      "path": "musica/46_Cathedral.mp3"
     },
     {
       "id": "theme_waves",
@@ -44,4 +44,5 @@
   ]
 
 }
+
 
