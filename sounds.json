@@ -3,7 +3,7 @@
     {
       "id": "medieval_town",
       "name": "Città medievale",
-      "path": "/musica/56_Medieval_Town.mp3"
+      "path": "musica/56_Medieval_Town.mp3"
     },
     {
       "id": "theme_forest",
@@ -42,4 +42,5 @@
       "defaultVolume": 0.6
     }
   ]
+
 }
