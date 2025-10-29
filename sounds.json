@@ -1,0 +1,45 @@
+{
+  "themes": [
+    {
+      "id": "medieval_town",
+      "name": "Città medievale",
+      "path": "/musica/56_Medieval_Town.mp3"
+    },
+    {
+      "id": "theme_forest",
+      "name": "Foresta",
+      "path": "https://cdn.pixabay.com/audio/2022/08/17/audio_6422d371ad.mp3"
+    },
+    {
+      "id": "theme_waves",
+      "name": "Onde",
+      "path": "https://cdn.pixabay.com/audio/2023/09/20/audio_5511b8b73a.mp3"
+    }
+  ],
+  "overlays": [
+    {
+      "id": "overlay_birds",
+      "name": "Uccelli",
+      "path": "https://cdn.freesound.org/previews/786/786904_1648170-lq.mp3",
+      "defaultVolume": 0.6
+    },
+    {
+      "id": "overlay_fire",
+      "name": "Fuoco",
+      "path": "https://cdn.pixabay.com/audio/2022/09/06/audio_291136b645.mp3",
+      "defaultVolume": 0.6
+    },
+    {
+      "id": "overlay_wind",
+      "name": "Vento",
+      "path": "https://cdn.pixabay.com/audio/2022/10/14/audio_972986a457.mp3",
+      "defaultVolume": 0.6
+    },
+    {
+      "id": "overlay_thunder",
+      "name": "Tuoni",
+      "path": "https://cdn.pixabay.com/audio/2022/03/15/audio_517df4a33a.mp3",
+      "defaultVolume": 0.6
+    }
+  ]
+}
