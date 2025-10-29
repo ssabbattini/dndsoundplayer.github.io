@@ -6,9 +6,9 @@
       "path": "musica/56_Medieval_Town.mp3"
     },
     {
-      "id": "theme_forest",
-      "name": "Foresta",
-      "path": "https://cdn.pixabay.com/audio/2022/08/17/audio_6422d371ad.mp3"
+      "id": "cattedrale",
+      "name": "Cattedrale",
+      "path": "music/46_Cathedral.mp3"
     },
     {
       "id": "theme_waves",
@@ -44,3 +44,4 @@
   ]
 
 }
+
